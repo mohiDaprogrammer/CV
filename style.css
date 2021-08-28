@@ -1,0 +1,162 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: #1B77F2;
+  color: white;
+}
+.template {
+  width: 960px;
+  margin: 0 auto;
+  background-color: #3A589E;
+  border-style: solid dashed solid dashed;
+  border-color: red;
+  border-top-width: 40px;
+  border-bottom-width: 40px;
+  border-right-width: 5px;
+  border-left-width: 5px;
+  border-radius: 150px;
+}
+.intro {
+  height: 380px;
+  width: 100%;
+}
+.intro_top {
+  height: 300px;
+  width: 100%;
+}
+.mid {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.intro_top_left {
+  height: 50px;
+  width: 50%;
+  float: left;
+  margin-top: 94px;
+  margin-left: 100px;
+}
+.intro_top_right {
+  float: left;
+  height: 250px;
+  width: 250px;
+}
+.intro_top_right img {
+  height: 290px;
+  width: 128%;
+  margin-left: 12px;
+  margin-top: 7px;
+}
+.intro_buttom {
+  height: 80px;
+  width: 940px;
+  background: #1B77F2;
+}
+.intro_buttom p {
+  margin-top: 0px;
+  padding-top: 20px;
+}
+.indent {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.education {
+  height: 160px;
+}
+.relevent_coursework {
+  background: #1B77F2;
+}
+.skill {}
+.work_experience {
+  background: #1B77F2;
+  text-align: justify;
+}
+.project {}
+.Activities {
+  background: #1B77F2;
+}
+.hr {
+    height: 5px;
+    background-color: white;
+}
+.education ul li ul li {
+    padding-left: 49px;
+    padding-bottom: 4px;
+}
+.education table tr td {
+  padding-right: 10
+
+  0px;
+}
+.work_experience table tbody tr td li {
+    padding-left: 12px;
+}
+.Activities table tbody td li {
+    padding-left: 20px;
+}
+.move_to_the_right {
+    padding-left: 60px;
+}
+.education ul li ul li {
+    padding-left: 49px;
+    padding-bottom: 4px;
+}
+.education table tr td {
+  padding-right: 10
+
+  0px;
+}
+.work_experience table tbody tr td li {
+    padding-left: 12px;
+}
+.Activities table tbody td li {
+    padding-left: 20px;
+}
+.move_to_the_right {
+    padding-left: 60px;
+}
+a:visited {
+  text-decoration: none;
+  color: red;
+}
+a:hover {
+  text-decoration: none;
+  color: blue;
+}
+a:focus {
+  text-decoration: none;
+  color: yellow;
+}
+a:hover, a:active {
+  text-decoration: none;
+  color: black
+}
+.nav {
+    padding-left: 0px;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 8px;
+}
+.nav a {
+    padding: 3px;
+    background: ghostwhite;
+    border-radius: 4px;
+}
+.footer {
+    height: 90px;
+}
+
+.Form{
+  height: 250px;
+  width: 100%;
+  margin-top: 0px;
+}
+.Form table{
+  background-color: white;
+  color: Black;
+border-radius: 10px;
+}
+.form_items{
+  padding: 0px;
+}
